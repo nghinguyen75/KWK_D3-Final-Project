@@ -13,8 +13,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    @IBOutlet var world: UILabel!
-    
 
+    @IBOutlet var helloWorld: UILabel!
+    
 }
 

@@ -28,6 +28,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
                     <connections>
+                        <outlet property="helloWorld" destination="Sa7-1r-5Gy" id="BPy-k4-4DZ"/>
                         <outlet property="world" destination="Sa7-1r-5Gy" id="1fb-IN-oYI"/>
                     </connections>
                 </viewController>
